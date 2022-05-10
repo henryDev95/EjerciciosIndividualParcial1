@@ -1,0 +1,33 @@
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppCompra\bin\Debug\WinAppCompra.exe.config
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppCompra\bin\Debug\WinAppCompra.exe
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppCompra\bin\Debug\WinAppCompra.pdb
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppCompra\obj\Debug\WinAppCompra.Form1.resources
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppCompra\obj\Debug\WinAppCompra.Properties.Resources.resources
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppCompra\obj\Debug\WinAppCompra.csproj.GenerateResource.cache
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppCompra\obj\Debug\WinAppCompra.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppCompra\obj\Debug\WinAppCompra.exe
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppCompra\obj\Debug\WinAppCompra.pdb
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppCompra\obj\Debug\WinAppCompra.csproj.AssemblyReference.cache
+C:\Users\TECNO-TEC\Documents\aplicaciones informaticas\primer parcial\ejercicios del deber\WinAppCompra\bin\Debug\WinAppCompra.exe.config
+C:\Users\TECNO-TEC\Documents\aplicaciones informaticas\primer parcial\ejercicios del deber\WinAppCompra\bin\Debug\WinAppCompra.exe
+C:\Users\TECNO-TEC\Documents\aplicaciones informaticas\primer parcial\ejercicios del deber\WinAppCompra\bin\Debug\WinAppCompra.pdb
+C:\Users\TECNO-TEC\Documents\aplicaciones informaticas\primer parcial\ejercicios del deber\WinAppCompra\obj\Debug\WinAppCompra.csproj.AssemblyReference.cache
+C:\Users\TECNO-TEC\Documents\aplicaciones informaticas\primer parcial\ejercicios del deber\WinAppCompra\obj\Debug\WinAppCompra.Form1.resources
+C:\Users\TECNO-TEC\Documents\aplicaciones informaticas\primer parcial\ejercicios del deber\WinAppCompra\obj\Debug\WinAppCompra.Properties.Resources.resources
+C:\Users\TECNO-TEC\Documents\aplicaciones informaticas\primer parcial\ejercicios del deber\WinAppCompra\obj\Debug\WinAppCompra.csproj.GenerateResource.cache
+C:\Users\TECNO-TEC\Documents\aplicaciones informaticas\primer parcial\ejercicios del deber\WinAppCompra\obj\Debug\WinAppCompra.csproj.CoreCompileInputs.cache
+C:\Users\TECNO-TEC\Documents\aplicaciones informaticas\primer parcial\ejercicios del deber\WinAppCompra\obj\Debug\WinAppCompra.exe
+C:\Users\TECNO-TEC\Documents\aplicaciones informaticas\primer parcial\ejercicios del deber\WinAppCompra\obj\Debug\WinAppCompra.pdb
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppCompra\WinAppCompra\bin\Debug\WinAppCompra.exe.config
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppCompra\WinAppCompra\obj\Debug\WinAppCompra.exe
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppCompra\WinAppCompra\obj\Debug\WinAppCompra.pdb
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCompra\WinAppCompra\bin\Debug\WinAppCompra.exe.config
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCompra\WinAppCompra\bin\Debug\WinAppCompra.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCompra\WinAppCompra\bin\Debug\WinAppCompra.pdb
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCompra\WinAppCompra\obj\Debug\WinAppCompra.csproj.AssemblyReference.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCompra\WinAppCompra\obj\Debug\WinAppCompra.Form1.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCompra\WinAppCompra\obj\Debug\WinAppCompra.Properties.Resources.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCompra\WinAppCompra\obj\Debug\WinAppCompra.csproj.GenerateResource.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCompra\WinAppCompra\obj\Debug\WinAppCompra.csproj.CoreCompileInputs.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCompra\WinAppCompra\obj\Debug\WinAppCompra.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCompra\WinAppCompra\obj\Debug\WinAppCompra.pdb

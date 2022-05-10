@@ -1,0 +1,39 @@
+D:\Aplicaciones\WinAppTallas\bin\Debug\WinAppTallas.exe.config
+D:\Aplicaciones\WinAppTallas\bin\Debug\WinAppTallas.exe
+D:\Aplicaciones\WinAppTallas\bin\Debug\WinAppTallas.pdb
+D:\Aplicaciones\WinAppTallas\obj\Debug\WinAppTallas.csprojAssemblyReference.cache
+D:\Aplicaciones\WinAppTallas\obj\Debug\WinAppTallas.Form1.resources
+D:\Aplicaciones\WinAppTallas\obj\Debug\WinAppTallas.Properties.Resources.resources
+D:\Aplicaciones\WinAppTallas\obj\Debug\WinAppTallas.csproj.GenerateResource.cache
+D:\Aplicaciones\WinAppTallas\obj\Debug\WinAppTallas.csproj.CoreCompileInputs.cache
+D:\Aplicaciones\WinAppTallas\obj\Debug\WinAppTallas.exe
+D:\Aplicaciones\WinAppTallas\obj\Debug\WinAppTallas.pdb
+C:\Users\carlo\Downloads\Aplicaciones\WinAppTallas\bin\Debug\WinAppTallas.exe.config
+C:\Users\carlo\Downloads\Aplicaciones\WinAppTallas\bin\Debug\WinAppTallas.exe
+C:\Users\carlo\Downloads\Aplicaciones\WinAppTallas\bin\Debug\WinAppTallas.pdb
+C:\Users\carlo\Downloads\Aplicaciones\WinAppTallas\obj\Debug\WinAppTallas.csproj.AssemblyReference.cache
+C:\Users\carlo\Downloads\Aplicaciones\WinAppTallas\obj\Debug\WinAppTallas.Form1.resources
+C:\Users\carlo\Downloads\Aplicaciones\WinAppTallas\obj\Debug\WinAppTallas.Properties.Resources.resources
+C:\Users\carlo\Downloads\Aplicaciones\WinAppTallas\obj\Debug\WinAppTallas.csproj.GenerateResource.cache
+C:\Users\carlo\Downloads\Aplicaciones\WinAppTallas\obj\Debug\WinAppTallas.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\Aplicaciones\WinAppTallas\obj\Debug\WinAppTallas.exe
+C:\Users\carlo\Downloads\Aplicaciones\WinAppTallas\obj\Debug\WinAppTallas.pdb
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppTallas\WinAppTallas\bin\Debug\WinAppTallas.exe.config
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppTallas\WinAppTallas\obj\Debug\WinAppTallas.exe
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppTallas\WinAppTallas\obj\Debug\WinAppTallas.pdb
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppTallas\WinAppTallas\obj\Debug\WinAppTallas.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppTallas\WinAppTallas\obj\Debug\WinAppTallas.Form1.resources
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppTallas\WinAppTallas\obj\Debug\WinAppTallas.Properties.Resources.resources
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppTallas\WinAppTallas\obj\Debug\WinAppTallas.csproj.GenerateResource.Cache
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppTallas\WinAppTallas\bin\Debug\WinAppTallas.exe
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppTallas\WinAppTallas\bin\Debug\WinAppTallas.pdb
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTallas\WinAppTallas\bin\Debug\WinAppTallas.exe.config
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTallas\WinAppTallas\bin\Debug\WinAppTallas.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTallas\WinAppTallas\bin\Debug\WinAppTallas.pdb
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTallas\WinAppTallas\obj\Debug\WinAppTallas.csproj.AssemblyReference.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTallas\WinAppTallas\obj\Debug\WinAppTallas.Form1.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTallas\WinAppTallas\obj\Debug\WinAppTallas.Properties.Resources.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTallas\WinAppTallas\obj\Debug\WinAppTallas.csproj.GenerateResource.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTallas\WinAppTallas\obj\Debug\WinAppTallas.csproj.CoreCompileInputs.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTallas\WinAppTallas\obj\Debug\WinAppTallas.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTallas\WinAppTallas\obj\Debug\WinAppTallas.pdb

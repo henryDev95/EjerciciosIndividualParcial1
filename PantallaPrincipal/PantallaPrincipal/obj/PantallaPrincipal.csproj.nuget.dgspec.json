@@ -1,0 +1,390 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\PantallaPrincipal\\PantallaPrincipal\\PantallaPrincipal.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\CalculoNumeroPi\\CalculoNumeroPi\\CalculoNumeroPi.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\CalculoNumeroPi\\CalculoNumeroPi\\CalculoNumeroPi.csproj",
+        "projectName": "CalculoNumeroPi",
+        "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\CalculoNumeroPi\\CalculoNumeroPi\\CalculoNumeroPi.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\PantallaPrincipal\\PantallaPrincipal\\PantallaPrincipal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\PantallaPrincipal\\PantallaPrincipal\\PantallaPrincipal.csproj",
+        "projectName": "PantallaPrincipal",
+        "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\PantallaPrincipal\\PantallaPrincipal\\PantallaPrincipal.csproj",
+        "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\PantallaPrincipal\\PantallaPrincipal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\CalculoNumeroPi\\CalculoNumeroPi\\CalculoNumeroPi.csproj": {
+                "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\CalculoNumeroPi\\CalculoNumeroPi\\CalculoNumeroPi.csproj"
+              },
+              "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCadena\\WinAppCadena\\WinAppCadena.csproj": {
+                "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCadena\\WinAppCadena\\WinAppCadena.csproj"
+              },
+              "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCalcNu\\WinAppCalcNu\\WinAppCalcNu.csproj": {
+                "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCalcNu\\WinAppCalcNu\\WinAppCalcNu.csproj"
+              },
+              "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCalculadoraMath\\WinAppCalculadoraMath\\WinAppCalculadoraMath.csproj": {
+                "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCalculadoraMath\\WinAppCalculadoraMath\\WinAppCalculadoraMath.csproj"
+              },
+              "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCandidatos\\WinAppCandidatos\\WinAppCandidatos.csproj": {
+                "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCandidatos\\WinAppCandidatos\\WinAppCandidatos.csproj"
+              },
+              "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCircunferencia\\WinAppCircunferencia\\WinAppCircunferencia.csproj": {
+                "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCircunferencia\\WinAppCircunferencia\\WinAppCircunferencia.csproj"
+              },
+              "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCompaniaT\\WinAppCompaniaT\\WinAppCompaniaT.csproj": {
+                "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCompaniaT\\WinAppCompaniaT\\WinAppCompaniaT.csproj"
+              },
+              "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCompra\\WinAppCompra\\WinAppCompra.csproj": {
+                "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCompra\\WinAppCompra\\WinAppCompra.csproj"
+              },
+              "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppEditorTexto\\WinAppEditorTexto\\WinAppEditorTexto.csproj": {
+                "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppEditorTexto\\WinAppEditorTexto\\WinAppEditorTexto.csproj"
+              },
+              "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppEJercicio1\\WinAppEJercicio1\\WinAppEJercicio1.csproj": {
+                "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppEJercicio1\\WinAppEJercicio1\\WinAppEJercicio1.csproj"
+              },
+              "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppEjercicio4\\WinAppEjercicio4\\WinAppEjercicio4.csproj": {
+                "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppEjercicio4\\WinAppEjercicio4\\WinAppEjercicio4.csproj"
+              },
+              "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinappMatriz\\WinappMatriz\\WinappMatriz.csproj": {
+                "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinappMatriz\\WinappMatriz\\WinappMatriz.csproj"
+              },
+              "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppSerieFibonacci\\WinAppSerieFibonacci\\WinAppSerieFibonacci.csproj": {
+                "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppSerieFibonacci\\WinAppSerieFibonacci\\WinAppSerieFibonacci.csproj"
+              },
+              "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppSerie\\WinAppSerie\\WinAppSerie.csproj": {
+                "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppSerie\\WinAppSerie\\WinAppSerie.csproj"
+              },
+              "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppTallas\\WinAppTallas\\WinAppTallas.csproj": {
+                "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppTallas\\WinAppTallas\\WinAppTallas.csproj"
+              },
+              "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppTraCelsius\\WinAppTraCelsius\\WinAppTraCelsius.csproj": {
+                "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppTraCelsius\\WinAppTraCelsius\\WinAppTraCelsius.csproj"
+              },
+              "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppTriangulo\\WinAppTriangulo\\WinAppTriangulo.csproj": {
+                "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppTriangulo\\WinAppTriangulo\\WinAppTriangulo.csproj"
+              },
+              "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinApp_Cuadrante\\WinApp_Discriminante_Calcular\\WinApp_Cuadrante.csproj": {
+                "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinApp_Cuadrante\\WinApp_Discriminante_Calcular\\WinApp_Cuadrante.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCadena\\WinAppCadena\\WinAppCadena.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCadena\\WinAppCadena\\WinAppCadena.csproj",
+        "projectName": "WinAppCadena",
+        "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCadena\\WinAppCadena\\WinAppCadena.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCalcNu\\WinAppCalcNu\\WinAppCalcNu.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCalcNu\\WinAppCalcNu\\WinAppCalcNu.csproj",
+        "projectName": "WinAppCalcNu",
+        "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCalcNu\\WinAppCalcNu\\WinAppCalcNu.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCalculadoraMath\\WinAppCalculadoraMath\\WinAppCalculadoraMath.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCalculadoraMath\\WinAppCalculadoraMath\\WinAppCalculadoraMath.csproj",
+        "projectName": "WinAppCalculadoraMath",
+        "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCalculadoraMath\\WinAppCalculadoraMath\\WinAppCalculadoraMath.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCandidatos\\WinAppCandidatos\\WinAppCandidatos.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCandidatos\\WinAppCandidatos\\WinAppCandidatos.csproj",
+        "projectName": "WinAppCandidatos",
+        "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCandidatos\\WinAppCandidatos\\WinAppCandidatos.csproj",
+        "frameworks": {
+          "net452": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net452": {}
+      }
+    },
+    "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCircunferencia\\WinAppCircunferencia\\WinAppCircunferencia.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCircunferencia\\WinAppCircunferencia\\WinAppCircunferencia.csproj",
+        "projectName": "WinAppCircunferencia",
+        "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCircunferencia\\WinAppCircunferencia\\WinAppCircunferencia.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCompaniaT\\WinAppCompaniaT\\WinAppCompaniaT.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCompaniaT\\WinAppCompaniaT\\WinAppCompaniaT.csproj",
+        "projectName": "WinAppCompaniaT",
+        "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCompaniaT\\WinAppCompaniaT\\WinAppCompaniaT.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCompra\\WinAppCompra\\WinAppCompra.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCompra\\WinAppCompra\\WinAppCompra.csproj",
+        "projectName": "WinAppCompra",
+        "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCompra\\WinAppCompra\\WinAppCompra.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppEditorTexto\\WinAppEditorTexto\\WinAppEditorTexto.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppEditorTexto\\WinAppEditorTexto\\WinAppEditorTexto.csproj",
+        "projectName": "WinAppEditorTexto",
+        "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppEditorTexto\\WinAppEditorTexto\\WinAppEditorTexto.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppEJercicio1\\WinAppEJercicio1\\WinAppEJercicio1.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppEJercicio1\\WinAppEJercicio1\\WinAppEJercicio1.csproj",
+        "projectName": "WinAppEJercicio1",
+        "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppEJercicio1\\WinAppEJercicio1\\WinAppEJercicio1.csproj",
+        "frameworks": {
+          "net452": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net452": {}
+      }
+    },
+    "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppEjercicio4\\WinAppEjercicio4\\WinAppEjercicio4.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppEjercicio4\\WinAppEjercicio4\\WinAppEjercicio4.csproj",
+        "projectName": "WinAppEjercicio4",
+        "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppEjercicio4\\WinAppEjercicio4\\WinAppEjercicio4.csproj",
+        "frameworks": {
+          "net452": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net452": {}
+      }
+    },
+    "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinappMatriz\\WinappMatriz\\WinappMatriz.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinappMatriz\\WinappMatriz\\WinappMatriz.csproj",
+        "projectName": "WinappMatriz",
+        "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinappMatriz\\WinappMatriz\\WinappMatriz.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppSerieFibonacci\\WinAppSerieFibonacci\\WinAppSerieFibonacci.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppSerieFibonacci\\WinAppSerieFibonacci\\WinAppSerieFibonacci.csproj",
+        "projectName": "WinAppSerieFibonacci",
+        "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppSerieFibonacci\\WinAppSerieFibonacci\\WinAppSerieFibonacci.csproj",
+        "frameworks": {
+          "net452": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net452": {}
+      }
+    },
+    "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppSerie\\WinAppSerie\\WinAppSerie.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppSerie\\WinAppSerie\\WinAppSerie.csproj",
+        "projectName": "WinAppSerie",
+        "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppSerie\\WinAppSerie\\WinAppSerie.csproj",
+        "frameworks": {
+          "net452": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net452": {}
+      }
+    },
+    "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppTallas\\WinAppTallas\\WinAppTallas.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppTallas\\WinAppTallas\\WinAppTallas.csproj",
+        "projectName": "WinAppTallas",
+        "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppTallas\\WinAppTallas\\WinAppTallas.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppTraCelsius\\WinAppTraCelsius\\WinAppTraCelsius.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppTraCelsius\\WinAppTraCelsius\\WinAppTraCelsius.csproj",
+        "projectName": "WinAppTraCelsius",
+        "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppTraCelsius\\WinAppTraCelsius\\WinAppTraCelsius.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppTriangulo\\WinAppTriangulo\\WinAppTriangulo.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppTriangulo\\WinAppTriangulo\\WinAppTriangulo.csproj",
+        "projectName": "WinAppTriangulo",
+        "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppTriangulo\\WinAppTriangulo\\WinAppTriangulo.csproj",
+        "frameworks": {
+          "net452": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net452": {}
+      }
+    },
+    "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinApp_Cuadrante\\WinApp_Discriminante_Calcular\\WinApp_Cuadrante.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinApp_Cuadrante\\WinApp_Discriminante_Calcular\\WinApp_Cuadrante.csproj",
+        "projectName": "WinApp_Cuadrante",
+        "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinApp_Cuadrante\\WinApp_Discriminante_Calcular\\WinApp_Cuadrante.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}

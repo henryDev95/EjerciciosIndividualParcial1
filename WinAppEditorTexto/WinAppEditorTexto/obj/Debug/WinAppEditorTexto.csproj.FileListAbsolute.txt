@@ -1,0 +1,39 @@
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppEditorTexto\bin\Debug\WinAppEditorTexto.exe.config
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppEditorTexto\bin\Debug\WinAppEditorTexto.exe
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppEditorTexto\bin\Debug\WinAppEditorTexto.pdb
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.Form1.resources
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.Properties.Resources.resources
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.csproj.GenerateResource.cache
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.exe
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.pdb
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.csproj.AssemblyReference.cache
+C:\Users\TECNO-TEC\Documents\aplicaciones informaticas\primer parcial\ejercicios del deber\WinAppEditorTexto\bin\Debug\WinAppEditorTexto.exe.config
+C:\Users\TECNO-TEC\Documents\aplicaciones informaticas\primer parcial\ejercicios del deber\WinAppEditorTexto\bin\Debug\WinAppEditorTexto.exe
+C:\Users\TECNO-TEC\Documents\aplicaciones informaticas\primer parcial\ejercicios del deber\WinAppEditorTexto\bin\Debug\WinAppEditorTexto.pdb
+C:\Users\TECNO-TEC\Documents\aplicaciones informaticas\primer parcial\ejercicios del deber\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.csproj.AssemblyReference.cache
+C:\Users\TECNO-TEC\Documents\aplicaciones informaticas\primer parcial\ejercicios del deber\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.Form1.resources
+C:\Users\TECNO-TEC\Documents\aplicaciones informaticas\primer parcial\ejercicios del deber\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.Properties.Resources.resources
+C:\Users\TECNO-TEC\Documents\aplicaciones informaticas\primer parcial\ejercicios del deber\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.csproj.GenerateResource.cache
+C:\Users\TECNO-TEC\Documents\aplicaciones informaticas\primer parcial\ejercicios del deber\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.csproj.CoreCompileInputs.cache
+C:\Users\TECNO-TEC\Documents\aplicaciones informaticas\primer parcial\ejercicios del deber\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.exe
+C:\Users\TECNO-TEC\Documents\aplicaciones informaticas\primer parcial\ejercicios del deber\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.pdb
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppEditorTexto\WinAppEditorTexto\bin\Debug\WinAppEditorTexto.exe.config
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppEditorTexto\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.exe
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppEditorTexto\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.pdb
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppEditorTexto\WinAppEditorTexto\bin\Debug\WinAppEditorTexto.exe
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppEditorTexto\WinAppEditorTexto\bin\Debug\WinAppEditorTexto.pdb
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppEditorTexto\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppEditorTexto\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.Form1.resources
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppEditorTexto\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.Properties.Resources.resources
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppEditorTexto\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.csproj.GenerateResource.Cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppEditorTexto\WinAppEditorTexto\bin\Debug\WinAppEditorTexto.exe.config
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppEditorTexto\WinAppEditorTexto\bin\Debug\WinAppEditorTexto.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppEditorTexto\WinAppEditorTexto\bin\Debug\WinAppEditorTexto.pdb
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppEditorTexto\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.csproj.AssemblyReference.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppEditorTexto\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.Form1.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppEditorTexto\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.Properties.Resources.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppEditorTexto\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.csproj.GenerateResource.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppEditorTexto\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.csproj.CoreCompileInputs.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppEditorTexto\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppEditorTexto\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.pdb

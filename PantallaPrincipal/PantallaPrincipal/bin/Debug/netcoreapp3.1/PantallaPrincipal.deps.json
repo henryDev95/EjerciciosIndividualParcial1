@@ -1,0 +1,223 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PantallaPrincipal/1.0.0": {
+        "dependencies": {
+          "CalculoNumeroPi": "1.0.0",
+          "WinAppCadena": "1.0.0",
+          "WinAppCalcNu": "1.0.0",
+          "WinAppCalculadoraMath": "1.0.0",
+          "WinAppCandidatos": "1.0.0",
+          "WinAppCircunferencia": "1.0.0",
+          "WinAppCompaniaT": "1.0.0",
+          "WinAppCompra": "1.0.0",
+          "WinAppEJercicio1": "1.0.0",
+          "WinAppEditorTexto": "1.0.0",
+          "WinAppEjercicio4": "1.0.0",
+          "WinAppSerie": "1.0.0",
+          "WinAppSerieFibonacci": "1.0.0",
+          "WinAppTallas": "1.0.0",
+          "WinAppTraCelsius": "1.0.0",
+          "WinAppTriangulo": "1.0.0",
+          "WinApp_Cuadrante": "1.0.0",
+          "WinappMatriz": "1.0.0"
+        },
+        "runtime": {
+          "PantallaPrincipal.dll": {}
+        }
+      },
+      "CalculoNumeroPi/1.0.0": {
+        "runtime": {
+          "CalculoNumeroPi.exe": {}
+        }
+      },
+      "WinAppCadena/1.0.0": {
+        "runtime": {
+          "WinAppCadena.exe": {}
+        }
+      },
+      "WinAppCalcNu/1.0.0": {
+        "runtime": {
+          "WinAppCalcNu.exe": {}
+        }
+      },
+      "WinAppCalculadoraMath/1.0.0": {
+        "runtime": {
+          "WinAppCalculadoraMath.exe": {}
+        }
+      },
+      "WinAppCandidatos/1.0.0": {
+        "runtime": {
+          "WinAppCandidatos.exe": {}
+        }
+      },
+      "WinAppCircunferencia/1.0.0": {
+        "runtime": {
+          "WinAppCircunferencia.exe": {}
+        }
+      },
+      "WinAppCompaniaT/1.0.0": {
+        "runtime": {
+          "WinAppCompaniaT.exe": {}
+        }
+      },
+      "WinAppCompra/1.0.0": {
+        "runtime": {
+          "WinAppCompra.exe": {}
+        }
+      },
+      "WinAppEditorTexto/1.0.0": {
+        "runtime": {
+          "WinAppEditorTexto.exe": {}
+        }
+      },
+      "WinAppEJercicio1/1.0.0": {
+        "runtime": {
+          "WinAppEJercicio1.exe": {}
+        }
+      },
+      "WinAppEjercicio4/1.0.0": {
+        "runtime": {
+          "WinAppEjercicio4.exe": {}
+        }
+      },
+      "WinappMatriz/1.0.0": {
+        "runtime": {
+          "WinappMatriz.exe": {}
+        }
+      },
+      "WinAppSerie/1.0.0": {
+        "runtime": {
+          "WinAppSerie.exe": {}
+        }
+      },
+      "WinAppSerieFibonacci/1.0.0": {
+        "runtime": {
+          "WinAppSerieFibonacci.exe": {}
+        }
+      },
+      "WinAppTallas/1.0.0": {
+        "runtime": {
+          "WinAppTallas.exe": {}
+        }
+      },
+      "WinAppTraCelsius/1.0.0": {
+        "runtime": {
+          "WinAppTraCelsius.exe": {}
+        }
+      },
+      "WinAppTriangulo/1.0.0": {
+        "runtime": {
+          "WinAppTriangulo.exe": {}
+        }
+      },
+      "WinApp_Cuadrante/1.0.0": {
+        "runtime": {
+          "WinApp_Discriminante_Calcular.exe": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PantallaPrincipal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculoNumeroPi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinAppCadena/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinAppCalcNu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinAppCalculadoraMath/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinAppCandidatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinAppCircunferencia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinAppCompaniaT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinAppCompra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinAppEditorTexto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinAppEJercicio1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinAppEjercicio4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinappMatriz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinAppSerie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinAppSerieFibonacci/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinAppTallas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinAppTraCelsius/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinAppTriangulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinApp_Cuadrante/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

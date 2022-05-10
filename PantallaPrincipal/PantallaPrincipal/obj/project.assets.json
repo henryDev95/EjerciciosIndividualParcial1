@@ -1,0 +1,398 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CalculoNumeroPi/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/CalculoNumeroPi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalculoNumeroPi.dll": {}
+        }
+      },
+      "WinAppCadena/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/WinAppCadena.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinAppCadena.dll": {}
+        }
+      },
+      "WinAppCalcNu/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/WinAppCalcNu.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinAppCalcNu.dll": {}
+        }
+      },
+      "WinAppCalculadoraMath/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/WinAppCalculadoraMath.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinAppCalculadoraMath.dll": {}
+        }
+      },
+      "WinAppCandidatos/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/WinAppCandidatos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinAppCandidatos.dll": {}
+        }
+      },
+      "WinAppCircunferencia/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/WinAppCircunferencia.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinAppCircunferencia.dll": {}
+        }
+      },
+      "WinAppCompaniaT/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/WinAppCompaniaT.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinAppCompaniaT.dll": {}
+        }
+      },
+      "WinAppCompra/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/WinAppCompra.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinAppCompra.dll": {}
+        }
+      },
+      "WinAppEditorTexto/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/WinAppEditorTexto.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinAppEditorTexto.dll": {}
+        }
+      },
+      "WinAppEJercicio1/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/WinAppEJercicio1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinAppEJercicio1.dll": {}
+        }
+      },
+      "WinAppEjercicio4/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/WinAppEjercicio4.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinAppEjercicio4.dll": {}
+        }
+      },
+      "WinappMatriz/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/WinappMatriz.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinappMatriz.dll": {}
+        }
+      },
+      "WinAppSerie/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/WinAppSerie.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinAppSerie.dll": {}
+        }
+      },
+      "WinAppSerieFibonacci/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/WinAppSerieFibonacci.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinAppSerieFibonacci.dll": {}
+        }
+      },
+      "WinAppTallas/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/WinAppTallas.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinAppTallas.dll": {}
+        }
+      },
+      "WinAppTraCelsius/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/WinAppTraCelsius.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinAppTraCelsius.dll": {}
+        }
+      },
+      "WinAppTriangulo/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/WinAppTriangulo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinAppTriangulo.dll": {}
+        }
+      },
+      "WinApp_Cuadrante/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/WinApp_Cuadrante.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinApp_Cuadrante.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculoNumeroPi/1.0.0": {
+      "type": "project",
+      "path": "../../CalculoNumeroPi/CalculoNumeroPi/CalculoNumeroPi.csproj",
+      "msbuildProject": "../../CalculoNumeroPi/CalculoNumeroPi/CalculoNumeroPi.csproj"
+    },
+    "WinAppCadena/1.0.0": {
+      "type": "project",
+      "path": "../../WinAppCadena/WinAppCadena/WinAppCadena.csproj",
+      "msbuildProject": "../../WinAppCadena/WinAppCadena/WinAppCadena.csproj"
+    },
+    "WinAppCalcNu/1.0.0": {
+      "type": "project",
+      "path": "../../WinAppCalcNu/WinAppCalcNu/WinAppCalcNu.csproj",
+      "msbuildProject": "../../WinAppCalcNu/WinAppCalcNu/WinAppCalcNu.csproj"
+    },
+    "WinAppCalculadoraMath/1.0.0": {
+      "type": "project",
+      "path": "../../WinAppCalculadoraMath/WinAppCalculadoraMath/WinAppCalculadoraMath.csproj",
+      "msbuildProject": "../../WinAppCalculadoraMath/WinAppCalculadoraMath/WinAppCalculadoraMath.csproj"
+    },
+    "WinAppCandidatos/1.0.0": {
+      "type": "project",
+      "path": "../../WinAppCandidatos/WinAppCandidatos/WinAppCandidatos.csproj",
+      "msbuildProject": "../../WinAppCandidatos/WinAppCandidatos/WinAppCandidatos.csproj"
+    },
+    "WinAppCircunferencia/1.0.0": {
+      "type": "project",
+      "path": "../../WinAppCircunferencia/WinAppCircunferencia/WinAppCircunferencia.csproj",
+      "msbuildProject": "../../WinAppCircunferencia/WinAppCircunferencia/WinAppCircunferencia.csproj"
+    },
+    "WinAppCompaniaT/1.0.0": {
+      "type": "project",
+      "path": "../../WinAppCompaniaT/WinAppCompaniaT/WinAppCompaniaT.csproj",
+      "msbuildProject": "../../WinAppCompaniaT/WinAppCompaniaT/WinAppCompaniaT.csproj"
+    },
+    "WinAppCompra/1.0.0": {
+      "type": "project",
+      "path": "../../WinAppCompra/WinAppCompra/WinAppCompra.csproj",
+      "msbuildProject": "../../WinAppCompra/WinAppCompra/WinAppCompra.csproj"
+    },
+    "WinAppEditorTexto/1.0.0": {
+      "type": "project",
+      "path": "../../WinAppEditorTexto/WinAppEditorTexto/WinAppEditorTexto.csproj",
+      "msbuildProject": "../../WinAppEditorTexto/WinAppEditorTexto/WinAppEditorTexto.csproj"
+    },
+    "WinAppEJercicio1/1.0.0": {
+      "type": "project",
+      "path": "../../WinAppEJercicio1/WinAppEJercicio1/WinAppEJercicio1.csproj",
+      "msbuildProject": "../../WinAppEJercicio1/WinAppEJercicio1/WinAppEJercicio1.csproj"
+    },
+    "WinAppEjercicio4/1.0.0": {
+      "type": "project",
+      "path": "../../WinAppEjercicio4/WinAppEjercicio4/WinAppEjercicio4.csproj",
+      "msbuildProject": "../../WinAppEjercicio4/WinAppEjercicio4/WinAppEjercicio4.csproj"
+    },
+    "WinappMatriz/1.0.0": {
+      "type": "project",
+      "path": "../../WinappMatriz/WinappMatriz/WinappMatriz.csproj",
+      "msbuildProject": "../../WinappMatriz/WinappMatriz/WinappMatriz.csproj"
+    },
+    "WinAppSerie/1.0.0": {
+      "type": "project",
+      "path": "../../WinAppSerie/WinAppSerie/WinAppSerie.csproj",
+      "msbuildProject": "../../WinAppSerie/WinAppSerie/WinAppSerie.csproj"
+    },
+    "WinAppSerieFibonacci/1.0.0": {
+      "type": "project",
+      "path": "../../WinAppSerieFibonacci/WinAppSerieFibonacci/WinAppSerieFibonacci.csproj",
+      "msbuildProject": "../../WinAppSerieFibonacci/WinAppSerieFibonacci/WinAppSerieFibonacci.csproj"
+    },
+    "WinAppTallas/1.0.0": {
+      "type": "project",
+      "path": "../../WinAppTallas/WinAppTallas/WinAppTallas.csproj",
+      "msbuildProject": "../../WinAppTallas/WinAppTallas/WinAppTallas.csproj"
+    },
+    "WinAppTraCelsius/1.0.0": {
+      "type": "project",
+      "path": "../../WinAppTraCelsius/WinAppTraCelsius/WinAppTraCelsius.csproj",
+      "msbuildProject": "../../WinAppTraCelsius/WinAppTraCelsius/WinAppTraCelsius.csproj"
+    },
+    "WinAppTriangulo/1.0.0": {
+      "type": "project",
+      "path": "../../WinAppTriangulo/WinAppTriangulo/WinAppTriangulo.csproj",
+      "msbuildProject": "../../WinAppTriangulo/WinAppTriangulo/WinAppTriangulo.csproj"
+    },
+    "WinApp_Cuadrante/1.0.0": {
+      "type": "project",
+      "path": "../../WinApp_Cuadrante/WinApp_Discriminante_Calcular/WinApp_Cuadrante.csproj",
+      "msbuildProject": "../../WinApp_Cuadrante/WinApp_Discriminante_Calcular/WinApp_Cuadrante.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "CalculoNumeroPi >= 1.0.0",
+      "WinAppCadena >= 1.0.0",
+      "WinAppCalcNu >= 1.0.0",
+      "WinAppCalculadoraMath >= 1.0.0",
+      "WinAppCandidatos >= 1.0.0",
+      "WinAppCircunferencia >= 1.0.0",
+      "WinAppCompaniaT >= 1.0.0",
+      "WinAppCompra >= 1.0.0",
+      "WinAppEJercicio1 >= 1.0.0",
+      "WinAppEditorTexto >= 1.0.0",
+      "WinAppEjercicio4 >= 1.0.0",
+      "WinAppSerie >= 1.0.0",
+      "WinAppSerieFibonacci >= 1.0.0",
+      "WinAppTallas >= 1.0.0",
+      "WinAppTraCelsius >= 1.0.0",
+      "WinAppTriangulo >= 1.0.0",
+      "WinApp_Cuadrante >= 1.0.0",
+      "WinappMatriz >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\henry\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\PantallaPrincipal\\PantallaPrincipal\\PantallaPrincipal.csproj",
+      "projectName": "PantallaPrincipal",
+      "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\PantallaPrincipal\\PantallaPrincipal\\PantallaPrincipal.csproj",
+      "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\PantallaPrincipal\\PantallaPrincipal\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\CalculoNumeroPi\\CalculoNumeroPi\\CalculoNumeroPi.csproj": {
+              "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\CalculoNumeroPi\\CalculoNumeroPi\\CalculoNumeroPi.csproj"
+            },
+            "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCadena\\WinAppCadena\\WinAppCadena.csproj": {
+              "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCadena\\WinAppCadena\\WinAppCadena.csproj"
+            },
+            "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCalcNu\\WinAppCalcNu\\WinAppCalcNu.csproj": {
+              "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCalcNu\\WinAppCalcNu\\WinAppCalcNu.csproj"
+            },
+            "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCalculadoraMath\\WinAppCalculadoraMath\\WinAppCalculadoraMath.csproj": {
+              "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCalculadoraMath\\WinAppCalculadoraMath\\WinAppCalculadoraMath.csproj"
+            },
+            "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCandidatos\\WinAppCandidatos\\WinAppCandidatos.csproj": {
+              "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCandidatos\\WinAppCandidatos\\WinAppCandidatos.csproj"
+            },
+            "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCircunferencia\\WinAppCircunferencia\\WinAppCircunferencia.csproj": {
+              "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCircunferencia\\WinAppCircunferencia\\WinAppCircunferencia.csproj"
+            },
+            "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCompaniaT\\WinAppCompaniaT\\WinAppCompaniaT.csproj": {
+              "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCompaniaT\\WinAppCompaniaT\\WinAppCompaniaT.csproj"
+            },
+            "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCompra\\WinAppCompra\\WinAppCompra.csproj": {
+              "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppCompra\\WinAppCompra\\WinAppCompra.csproj"
+            },
+            "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppEditorTexto\\WinAppEditorTexto\\WinAppEditorTexto.csproj": {
+              "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppEditorTexto\\WinAppEditorTexto\\WinAppEditorTexto.csproj"
+            },
+            "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppEJercicio1\\WinAppEJercicio1\\WinAppEJercicio1.csproj": {
+              "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppEJercicio1\\WinAppEJercicio1\\WinAppEJercicio1.csproj"
+            },
+            "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppEjercicio4\\WinAppEjercicio4\\WinAppEjercicio4.csproj": {
+              "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppEjercicio4\\WinAppEjercicio4\\WinAppEjercicio4.csproj"
+            },
+            "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinappMatriz\\WinappMatriz\\WinappMatriz.csproj": {
+              "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinappMatriz\\WinappMatriz\\WinappMatriz.csproj"
+            },
+            "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppSerieFibonacci\\WinAppSerieFibonacci\\WinAppSerieFibonacci.csproj": {
+              "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppSerieFibonacci\\WinAppSerieFibonacci\\WinAppSerieFibonacci.csproj"
+            },
+            "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppSerie\\WinAppSerie\\WinAppSerie.csproj": {
+              "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppSerie\\WinAppSerie\\WinAppSerie.csproj"
+            },
+            "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppTallas\\WinAppTallas\\WinAppTallas.csproj": {
+              "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppTallas\\WinAppTallas\\WinAppTallas.csproj"
+            },
+            "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppTraCelsius\\WinAppTraCelsius\\WinAppTraCelsius.csproj": {
+              "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppTraCelsius\\WinAppTraCelsius\\WinAppTraCelsius.csproj"
+            },
+            "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppTriangulo\\WinAppTriangulo\\WinAppTriangulo.csproj": {
+              "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinAppTriangulo\\WinAppTriangulo\\WinAppTriangulo.csproj"
+            },
+            "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinApp_Cuadrante\\WinApp_Discriminante_Calcular\\WinApp_Cuadrante.csproj": {
+              "projectPath": "C:\\Users\\henry\\Documents\\ejercicio jeferson ind1\\WinApp_Cuadrante\\WinApp_Discriminante_Calcular\\WinApp_Cuadrante.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

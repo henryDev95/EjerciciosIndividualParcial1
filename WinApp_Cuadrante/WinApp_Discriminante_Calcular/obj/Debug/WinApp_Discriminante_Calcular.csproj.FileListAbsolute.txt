@@ -1,0 +1,10 @@
+c:\users\cristian\source\repos\WinApp_Discriminante_Calcular\WinApp_Discriminante_Calcular\bin\Debug\WinApp_Discriminante_Calcular.exe.config
+c:\users\cristian\source\repos\WinApp_Discriminante_Calcular\WinApp_Discriminante_Calcular\bin\Debug\WinApp_Discriminante_Calcular.exe
+c:\users\cristian\source\repos\WinApp_Discriminante_Calcular\WinApp_Discriminante_Calcular\bin\Debug\WinApp_Discriminante_Calcular.pdb
+c:\users\cristian\source\repos\WinApp_Discriminante_Calcular\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Discriminante_Calcular.Form1.resources
+c:\users\cristian\source\repos\WinApp_Discriminante_Calcular\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Discriminante_Calcular.Properties.Resources.resources
+c:\users\cristian\source\repos\WinApp_Discriminante_Calcular\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Discriminante_Calcular.csproj.GenerateResource.cache
+c:\users\cristian\source\repos\WinApp_Discriminante_Calcular\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Discriminante_Calcular.csproj.CoreCompileInputs.cache
+c:\users\cristian\source\repos\WinApp_Discriminante_Calcular\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Discriminante_Calcular.exe
+c:\users\cristian\source\repos\WinApp_Discriminante_Calcular\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Discriminante_Calcular.pdb
+c:\users\cristian\source\repos\WinApp_Discriminante_Calcular\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Discriminante_Calcular.csprojAssemblyReference.cache

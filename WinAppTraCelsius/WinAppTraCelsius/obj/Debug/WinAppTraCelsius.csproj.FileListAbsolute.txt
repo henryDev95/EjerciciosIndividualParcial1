@@ -1,0 +1,20 @@
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinAppTraCelsius\WinAppTraCelsius\bin\Debug\WinAppTraCelsius.exe.config
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinAppTraCelsius\WinAppTraCelsius\bin\Debug\WinAppTraCelsius.exe
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinAppTraCelsius\WinAppTraCelsius\bin\Debug\WinAppTraCelsius.pdb
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinAppTraCelsius\WinAppTraCelsius\obj\Debug\WinAppTraCelsius.csprojAssemblyReference.cache
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinAppTraCelsius\WinAppTraCelsius\obj\Debug\WinAppTraCelsius.Form1.resources
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinAppTraCelsius\WinAppTraCelsius\obj\Debug\WinAppTraCelsius.Properties.Resources.resources
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinAppTraCelsius\WinAppTraCelsius\obj\Debug\WinAppTraCelsius.csproj.GenerateResource.cache
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinAppTraCelsius\WinAppTraCelsius\obj\Debug\WinAppTraCelsius.csproj.CoreCompileInputs.cache
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinAppTraCelsius\WinAppTraCelsius\obj\Debug\WinAppTraCelsius.exe
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinAppTraCelsius\WinAppTraCelsius\obj\Debug\WinAppTraCelsius.pdb
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTraCelsius\WinAppTraCelsius\bin\Debug\WinAppTraCelsius.exe.config
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTraCelsius\WinAppTraCelsius\bin\Debug\WinAppTraCelsius.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTraCelsius\WinAppTraCelsius\bin\Debug\WinAppTraCelsius.pdb
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTraCelsius\WinAppTraCelsius\obj\Debug\WinAppTraCelsius.csproj.AssemblyReference.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTraCelsius\WinAppTraCelsius\obj\Debug\WinAppTraCelsius.Form1.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTraCelsius\WinAppTraCelsius\obj\Debug\WinAppTraCelsius.Properties.Resources.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTraCelsius\WinAppTraCelsius\obj\Debug\WinAppTraCelsius.csproj.GenerateResource.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTraCelsius\WinAppTraCelsius\obj\Debug\WinAppTraCelsius.csproj.CoreCompileInputs.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTraCelsius\WinAppTraCelsius\obj\Debug\WinAppTraCelsius.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTraCelsius\WinAppTraCelsius\obj\Debug\WinAppTraCelsius.pdb

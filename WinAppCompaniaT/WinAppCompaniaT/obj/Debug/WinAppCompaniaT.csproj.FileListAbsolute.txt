@@ -1,0 +1,20 @@
+C:\Users\hendrix\source\repos\WinAppCompaniaT\WinAppCompaniaT\bin\Debug\WinAppCompaniaT.exe.config
+C:\Users\hendrix\source\repos\WinAppCompaniaT\WinAppCompaniaT\bin\Debug\WinAppCompaniaT.exe
+C:\Users\hendrix\source\repos\WinAppCompaniaT\WinAppCompaniaT\bin\Debug\WinAppCompaniaT.pdb
+C:\Users\hendrix\source\repos\WinAppCompaniaT\WinAppCompaniaT\obj\Debug\WinAppCompaniaT.csprojAssemblyReference.cache
+C:\Users\hendrix\source\repos\WinAppCompaniaT\WinAppCompaniaT\obj\Debug\WinAppCompaniaT.Form1.resources
+C:\Users\hendrix\source\repos\WinAppCompaniaT\WinAppCompaniaT\obj\Debug\WinAppCompaniaT.Properties.Resources.resources
+C:\Users\hendrix\source\repos\WinAppCompaniaT\WinAppCompaniaT\obj\Debug\WinAppCompaniaT.csproj.GenerateResource.cache
+C:\Users\hendrix\source\repos\WinAppCompaniaT\WinAppCompaniaT\obj\Debug\WinAppCompaniaT.csproj.CoreCompileInputs.cache
+C:\Users\hendrix\source\repos\WinAppCompaniaT\WinAppCompaniaT\obj\Debug\WinAppCompaniaT.exe
+C:\Users\hendrix\source\repos\WinAppCompaniaT\WinAppCompaniaT\obj\Debug\WinAppCompaniaT.pdb
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCompaniaT\WinAppCompaniaT\bin\Debug\WinAppCompaniaT.exe.config
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCompaniaT\WinAppCompaniaT\bin\Debug\WinAppCompaniaT.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCompaniaT\WinAppCompaniaT\bin\Debug\WinAppCompaniaT.pdb
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCompaniaT\WinAppCompaniaT\obj\Debug\WinAppCompaniaT.csproj.AssemblyReference.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCompaniaT\WinAppCompaniaT\obj\Debug\WinAppCompaniaT.Form1.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCompaniaT\WinAppCompaniaT\obj\Debug\WinAppCompaniaT.Properties.Resources.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCompaniaT\WinAppCompaniaT\obj\Debug\WinAppCompaniaT.csproj.GenerateResource.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCompaniaT\WinAppCompaniaT\obj\Debug\WinAppCompaniaT.csproj.CoreCompileInputs.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCompaniaT\WinAppCompaniaT\obj\Debug\WinAppCompaniaT.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCompaniaT\WinAppCompaniaT\obj\Debug\WinAppCompaniaT.pdb

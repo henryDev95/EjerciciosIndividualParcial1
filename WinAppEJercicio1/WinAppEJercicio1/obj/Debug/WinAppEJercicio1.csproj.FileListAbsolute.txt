@@ -1,0 +1,29 @@
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppEJercicio1\WinAppEJercicio1\bin\Debug\WinAppEJercicio1.exe.config
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppEJercicio1\WinAppEJercicio1\bin\Debug\WinAppEJercicio1.exe
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppEJercicio1\WinAppEJercicio1\bin\Debug\WinAppEJercicio1.pdb
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppEJercicio1\WinAppEJercicio1\obj\Debug\WinAppEJercicio1.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppEJercicio1\WinAppEJercicio1\obj\Debug\WinAppEJercicio1.Form1.resources
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppEJercicio1\WinAppEJercicio1\obj\Debug\WinAppEJercicio1.Properties.Resources.resources
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppEJercicio1\WinAppEJercicio1\obj\Debug\WinAppEJercicio1.csproj.GenerateResource.Cache
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppEJercicio1\WinAppEJercicio1\obj\Debug\WinAppEJercicio1.exe
+C:\Users\pc\Documents\trabajos\Programas deber\WinAppEJercicio1\WinAppEJercicio1\obj\Debug\WinAppEJercicio1.pdb
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppEJercicio1\WinAppEJercicio1\bin\Debug\WinAppEJercicio1.exe.config
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppEJercicio1\WinAppEJercicio1\bin\Debug\WinAppEJercicio1.exe
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppEJercicio1\WinAppEJercicio1\bin\Debug\WinAppEJercicio1.pdb
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppEJercicio1\WinAppEJercicio1\obj\Debug\WinAppEJercicio1.csprojAssemblyReference.cache
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppEJercicio1\WinAppEJercicio1\obj\Debug\WinAppEJercicio1.Form1.resources
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppEJercicio1\WinAppEJercicio1\obj\Debug\WinAppEJercicio1.Properties.Resources.resources
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppEJercicio1\WinAppEJercicio1\obj\Debug\WinAppEJercicio1.csproj.GenerateResource.cache
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppEJercicio1\WinAppEJercicio1\obj\Debug\WinAppEJercicio1.csproj.CoreCompileInputs.cache
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppEJercicio1\WinAppEJercicio1\obj\Debug\WinAppEJercicio1.exe
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppEJercicio1\WinAppEJercicio1\obj\Debug\WinAppEJercicio1.pdb
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppEJercicio1\WinAppEJercicio1\bin\Debug\WinAppEJercicio1.exe.config
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppEJercicio1\WinAppEJercicio1\bin\Debug\WinAppEJercicio1.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppEJercicio1\WinAppEJercicio1\bin\Debug\WinAppEJercicio1.pdb
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppEJercicio1\WinAppEJercicio1\obj\Debug\WinAppEJercicio1.csproj.AssemblyReference.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppEJercicio1\WinAppEJercicio1\obj\Debug\WinAppEJercicio1.Form1.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppEJercicio1\WinAppEJercicio1\obj\Debug\WinAppEJercicio1.Properties.Resources.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppEJercicio1\WinAppEJercicio1\obj\Debug\WinAppEJercicio1.csproj.GenerateResource.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppEJercicio1\WinAppEJercicio1\obj\Debug\WinAppEJercicio1.csproj.CoreCompileInputs.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppEJercicio1\WinAppEJercicio1\obj\Debug\WinAppEJercicio1.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppEJercicio1\WinAppEJercicio1\obj\Debug\WinAppEJercicio1.pdb

@@ -1,0 +1,20 @@
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinAppCadena\WinAppCadena\bin\Debug\WinAppCadena.exe.config
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinAppCadena\WinAppCadena\bin\Debug\WinAppCadena.exe
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinAppCadena\WinAppCadena\bin\Debug\WinAppCadena.pdb
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinAppCadena\WinAppCadena\obj\Debug\WinAppCadena.Form1.resources
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinAppCadena\WinAppCadena\obj\Debug\WinAppCadena.Properties.Resources.resources
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinAppCadena\WinAppCadena\obj\Debug\WinAppCadena.csproj.GenerateResource.cache
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinAppCadena\WinAppCadena\obj\Debug\WinAppCadena.csproj.CoreCompileInputs.cache
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinAppCadena\WinAppCadena\obj\Debug\WinAppCadena.exe
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinAppCadena\WinAppCadena\obj\Debug\WinAppCadena.pdb
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinAppCadena\WinAppCadena\obj\Debug\WinAppCadena.csprojAssemblyReference.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCadena\WinAppCadena\bin\Debug\WinAppCadena.exe.config
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCadena\WinAppCadena\bin\Debug\WinAppCadena.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCadena\WinAppCadena\bin\Debug\WinAppCadena.pdb
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCadena\WinAppCadena\obj\Debug\WinAppCadena.csproj.AssemblyReference.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCadena\WinAppCadena\obj\Debug\WinAppCadena.Form1.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCadena\WinAppCadena\obj\Debug\WinAppCadena.Properties.Resources.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCadena\WinAppCadena\obj\Debug\WinAppCadena.csproj.GenerateResource.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCadena\WinAppCadena\obj\Debug\WinAppCadena.csproj.CoreCompileInputs.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCadena\WinAppCadena\obj\Debug\WinAppCadena.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCadena\WinAppCadena\obj\Debug\WinAppCadena.pdb

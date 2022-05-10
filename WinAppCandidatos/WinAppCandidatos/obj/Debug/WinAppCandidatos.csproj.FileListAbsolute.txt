@@ -1,0 +1,19 @@
+C:\Users\henry\Documents\trabajos\WinAppCandidatos\WinAppCandidatos\bin\Debug\WinAppCandidatos.exe.config
+C:\Users\henry\Documents\trabajos\WinAppCandidatos\WinAppCandidatos\bin\Debug\WinAppCandidatos.exe
+C:\Users\henry\Documents\trabajos\WinAppCandidatos\WinAppCandidatos\bin\Debug\WinAppCandidatos.pdb
+C:\Users\henry\Documents\trabajos\WinAppCandidatos\WinAppCandidatos\obj\Debug\WinAppCandidatos.csprojResolveAssemblyReference.cache
+C:\Users\henry\Documents\trabajos\WinAppCandidatos\WinAppCandidatos\obj\Debug\WinAppCandidatos.Form1.resources
+C:\Users\henry\Documents\trabajos\WinAppCandidatos\WinAppCandidatos\obj\Debug\WinAppCandidatos.Properties.Resources.resources
+C:\Users\henry\Documents\trabajos\WinAppCandidatos\WinAppCandidatos\obj\Debug\WinAppCandidatos.csproj.GenerateResource.Cache
+C:\Users\henry\Documents\trabajos\WinAppCandidatos\WinAppCandidatos\obj\Debug\WinAppCandidatos.exe
+C:\Users\henry\Documents\trabajos\WinAppCandidatos\WinAppCandidatos\obj\Debug\WinAppCandidatos.pdb
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCandidatos\WinAppCandidatos\bin\Debug\WinAppCandidatos.exe.config
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCandidatos\WinAppCandidatos\bin\Debug\WinAppCandidatos.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCandidatos\WinAppCandidatos\bin\Debug\WinAppCandidatos.pdb
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCandidatos\WinAppCandidatos\obj\Debug\WinAppCandidatos.csproj.AssemblyReference.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCandidatos\WinAppCandidatos\obj\Debug\WinAppCandidatos.Form1.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCandidatos\WinAppCandidatos\obj\Debug\WinAppCandidatos.Properties.Resources.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCandidatos\WinAppCandidatos\obj\Debug\WinAppCandidatos.csproj.GenerateResource.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCandidatos\WinAppCandidatos\obj\Debug\WinAppCandidatos.csproj.CoreCompileInputs.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCandidatos\WinAppCandidatos\obj\Debug\WinAppCandidatos.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCandidatos\WinAppCandidatos\obj\Debug\WinAppCandidatos.pdb

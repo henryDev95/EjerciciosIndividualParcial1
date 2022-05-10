@@ -1,0 +1,20 @@
+C:\Users\hendrix\source\repos\CalculoNumeroPi\CalculoNumeroPi\bin\Debug\CalculoNumeroPi.exe.config
+C:\Users\hendrix\source\repos\CalculoNumeroPi\CalculoNumeroPi\bin\Debug\CalculoNumeroPi.exe
+C:\Users\hendrix\source\repos\CalculoNumeroPi\CalculoNumeroPi\bin\Debug\CalculoNumeroPi.pdb
+C:\Users\hendrix\source\repos\CalculoNumeroPi\CalculoNumeroPi\obj\Debug\CalculoNumeroPi.csprojAssemblyReference.cache
+C:\Users\hendrix\source\repos\CalculoNumeroPi\CalculoNumeroPi\obj\Debug\CalculoNumeroPi.Form1.resources
+C:\Users\hendrix\source\repos\CalculoNumeroPi\CalculoNumeroPi\obj\Debug\CalculoNumeroPi.Properties.Resources.resources
+C:\Users\hendrix\source\repos\CalculoNumeroPi\CalculoNumeroPi\obj\Debug\CalculoNumeroPi.csproj.GenerateResource.cache
+C:\Users\hendrix\source\repos\CalculoNumeroPi\CalculoNumeroPi\obj\Debug\CalculoNumeroPi.csproj.CoreCompileInputs.cache
+C:\Users\hendrix\source\repos\CalculoNumeroPi\CalculoNumeroPi\obj\Debug\CalculoNumeroPi.exe
+C:\Users\hendrix\source\repos\CalculoNumeroPi\CalculoNumeroPi\obj\Debug\CalculoNumeroPi.pdb
+C:\Users\henry\Documents\ejercicio jeferson ind1\CalculoNumeroPi\CalculoNumeroPi\bin\Debug\CalculoNumeroPi.exe.config
+C:\Users\henry\Documents\ejercicio jeferson ind1\CalculoNumeroPi\CalculoNumeroPi\bin\Debug\CalculoNumeroPi.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\CalculoNumeroPi\CalculoNumeroPi\bin\Debug\CalculoNumeroPi.pdb
+C:\Users\henry\Documents\ejercicio jeferson ind1\CalculoNumeroPi\CalculoNumeroPi\obj\Debug\CalculoNumeroPi.csproj.AssemblyReference.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\CalculoNumeroPi\CalculoNumeroPi\obj\Debug\CalculoNumeroPi.Form1.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\CalculoNumeroPi\CalculoNumeroPi\obj\Debug\CalculoNumeroPi.Properties.Resources.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\CalculoNumeroPi\CalculoNumeroPi\obj\Debug\CalculoNumeroPi.csproj.GenerateResource.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\CalculoNumeroPi\CalculoNumeroPi\obj\Debug\CalculoNumeroPi.csproj.CoreCompileInputs.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\CalculoNumeroPi\CalculoNumeroPi\obj\Debug\CalculoNumeroPi.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\CalculoNumeroPi\CalculoNumeroPi\obj\Debug\CalculoNumeroPi.pdb

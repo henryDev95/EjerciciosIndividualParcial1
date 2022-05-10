@@ -1,0 +1,29 @@
+C:\Users\henry\Documents\trabajos gorda\WinAppTriangulo\WinAppTriangulo\bin\Debug\WinAppTriangulo.exe.config
+C:\Users\henry\Documents\trabajos gorda\WinAppTriangulo\WinAppTriangulo\bin\Debug\WinAppTriangulo.exe
+C:\Users\henry\Documents\trabajos gorda\WinAppTriangulo\WinAppTriangulo\bin\Debug\WinAppTriangulo.pdb
+C:\Users\henry\Documents\trabajos gorda\WinAppTriangulo\WinAppTriangulo\obj\Debug\WinAppTriangulo.csprojResolveAssemblyReference.cache
+C:\Users\henry\Documents\trabajos gorda\WinAppTriangulo\WinAppTriangulo\obj\Debug\WinAppTriangulo.Form1.resources
+C:\Users\henry\Documents\trabajos gorda\WinAppTriangulo\WinAppTriangulo\obj\Debug\WinAppTriangulo.Properties.Resources.resources
+C:\Users\henry\Documents\trabajos gorda\WinAppTriangulo\WinAppTriangulo\obj\Debug\WinAppTriangulo.csproj.GenerateResource.Cache
+C:\Users\henry\Documents\trabajos gorda\WinAppTriangulo\WinAppTriangulo\obj\Debug\WinAppTriangulo.exe
+C:\Users\henry\Documents\trabajos gorda\WinAppTriangulo\WinAppTriangulo\obj\Debug\WinAppTriangulo.pdb
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppTriangulo\WinAppTriangulo\bin\Debug\WinAppTriangulo.exe.config
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppTriangulo\WinAppTriangulo\bin\Debug\WinAppTriangulo.exe
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppTriangulo\WinAppTriangulo\bin\Debug\WinAppTriangulo.pdb
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppTriangulo\WinAppTriangulo\obj\Debug\WinAppTriangulo.csprojAssemblyReference.cache
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppTriangulo\WinAppTriangulo\obj\Debug\WinAppTriangulo.Form1.resources
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppTriangulo\WinAppTriangulo\obj\Debug\WinAppTriangulo.Properties.Resources.resources
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppTriangulo\WinAppTriangulo\obj\Debug\WinAppTriangulo.csproj.GenerateResource.cache
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppTriangulo\WinAppTriangulo\obj\Debug\WinAppTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppTriangulo\WinAppTriangulo\obj\Debug\WinAppTriangulo.exe
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppTriangulo\WinAppTriangulo\obj\Debug\WinAppTriangulo.pdb
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTriangulo\WinAppTriangulo\bin\Debug\WinAppTriangulo.exe.config
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTriangulo\WinAppTriangulo\bin\Debug\WinAppTriangulo.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTriangulo\WinAppTriangulo\bin\Debug\WinAppTriangulo.pdb
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTriangulo\WinAppTriangulo\obj\Debug\WinAppTriangulo.csproj.AssemblyReference.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTriangulo\WinAppTriangulo\obj\Debug\WinAppTriangulo.Form1.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTriangulo\WinAppTriangulo\obj\Debug\WinAppTriangulo.Properties.Resources.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTriangulo\WinAppTriangulo\obj\Debug\WinAppTriangulo.csproj.GenerateResource.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTriangulo\WinAppTriangulo\obj\Debug\WinAppTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTriangulo\WinAppTriangulo\obj\Debug\WinAppTriangulo.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppTriangulo\WinAppTriangulo\obj\Debug\WinAppTriangulo.pdb

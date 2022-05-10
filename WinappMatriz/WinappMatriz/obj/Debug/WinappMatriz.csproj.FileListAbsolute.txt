@@ -1,0 +1,20 @@
+C:\Users\Jhon\Documents\aplicaciones programa\parcial 1\tarea individual\otros\WinappMatriz\WinappMatriz\bin\Debug\WinappMatriz.exe.config
+C:\Users\Jhon\Documents\aplicaciones programa\parcial 1\tarea individual\otros\WinappMatriz\WinappMatriz\bin\Debug\WinappMatriz.exe
+C:\Users\Jhon\Documents\aplicaciones programa\parcial 1\tarea individual\otros\WinappMatriz\WinappMatriz\bin\Debug\WinappMatriz.pdb
+C:\Users\Jhon\Documents\aplicaciones programa\parcial 1\tarea individual\otros\WinappMatriz\WinappMatriz\obj\Debug\WinappMatriz.csprojAssemblyReference.cache
+C:\Users\Jhon\Documents\aplicaciones programa\parcial 1\tarea individual\otros\WinappMatriz\WinappMatriz\obj\Debug\WinappMatriz.Form1.resources
+C:\Users\Jhon\Documents\aplicaciones programa\parcial 1\tarea individual\otros\WinappMatriz\WinappMatriz\obj\Debug\WinappMatriz.Properties.Resources.resources
+C:\Users\Jhon\Documents\aplicaciones programa\parcial 1\tarea individual\otros\WinappMatriz\WinappMatriz\obj\Debug\WinappMatriz.csproj.GenerateResource.cache
+C:\Users\Jhon\Documents\aplicaciones programa\parcial 1\tarea individual\otros\WinappMatriz\WinappMatriz\obj\Debug\WinappMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Documents\aplicaciones programa\parcial 1\tarea individual\otros\WinappMatriz\WinappMatriz\obj\Debug\WinappMatriz.exe
+C:\Users\Jhon\Documents\aplicaciones programa\parcial 1\tarea individual\otros\WinappMatriz\WinappMatriz\obj\Debug\WinappMatriz.pdb
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinappMatriz\WinappMatriz\bin\Debug\WinappMatriz.exe.config
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinappMatriz\WinappMatriz\bin\Debug\WinappMatriz.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinappMatriz\WinappMatriz\bin\Debug\WinappMatriz.pdb
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinappMatriz\WinappMatriz\obj\Debug\WinappMatriz.csproj.AssemblyReference.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinappMatriz\WinappMatriz\obj\Debug\WinappMatriz.Form1.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinappMatriz\WinappMatriz\obj\Debug\WinappMatriz.Properties.Resources.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinappMatriz\WinappMatriz\obj\Debug\WinappMatriz.csproj.GenerateResource.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinappMatriz\WinappMatriz\obj\Debug\WinappMatriz.csproj.CoreCompileInputs.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinappMatriz\WinappMatriz\obj\Debug\WinappMatriz.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinappMatriz\WinappMatriz\obj\Debug\WinappMatriz.pdb

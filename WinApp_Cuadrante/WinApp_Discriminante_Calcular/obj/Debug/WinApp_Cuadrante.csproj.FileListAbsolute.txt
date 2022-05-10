@@ -1,0 +1,30 @@
+C:\Users\cristian\Desktop\deberes\APLICACIONES INFORMATICAS 1\TRABAJOS INDIVIDUALES\8 dado un punto x y  calcular el cuadrante\WinApp_Cuadrante\WinApp_Discriminante_Calcular\bin\Debug\WinApp_Discriminante_Calcular.exe.config
+C:\Users\cristian\Desktop\deberes\APLICACIONES INFORMATICAS 1\TRABAJOS INDIVIDUALES\8 dado un punto x y  calcular el cuadrante\WinApp_Cuadrante\WinApp_Discriminante_Calcular\bin\Debug\WinApp_Discriminante_Calcular.exe
+C:\Users\cristian\Desktop\deberes\APLICACIONES INFORMATICAS 1\TRABAJOS INDIVIDUALES\8 dado un punto x y  calcular el cuadrante\WinApp_Cuadrante\WinApp_Discriminante_Calcular\bin\Debug\WinApp_Discriminante_Calcular.pdb
+C:\Users\cristian\Desktop\deberes\APLICACIONES INFORMATICAS 1\TRABAJOS INDIVIDUALES\8 dado un punto x y  calcular el cuadrante\WinApp_Cuadrante\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Cuadrante.csprojAssemblyReference.cache
+C:\Users\cristian\Desktop\deberes\APLICACIONES INFORMATICAS 1\TRABAJOS INDIVIDUALES\8 dado un punto x y  calcular el cuadrante\WinApp_Cuadrante\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Cuadrante.Form1.resources
+C:\Users\cristian\Desktop\deberes\APLICACIONES INFORMATICAS 1\TRABAJOS INDIVIDUALES\8 dado un punto x y  calcular el cuadrante\WinApp_Cuadrante\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Discriminante_Calcular.Properties.Resources.resources
+C:\Users\cristian\Desktop\deberes\APLICACIONES INFORMATICAS 1\TRABAJOS INDIVIDUALES\8 dado un punto x y  calcular el cuadrante\WinApp_Cuadrante\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Cuadrante.csproj.GenerateResource.cache
+C:\Users\cristian\Desktop\deberes\APLICACIONES INFORMATICAS 1\TRABAJOS INDIVIDUALES\8 dado un punto x y  calcular el cuadrante\WinApp_Cuadrante\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Cuadrante.csproj.CoreCompileInputs.cache
+C:\Users\cristian\Desktop\deberes\APLICACIONES INFORMATICAS 1\TRABAJOS INDIVIDUALES\8 dado un punto x y  calcular el cuadrante\WinApp_Cuadrante\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Discriminante_Calcular.exe
+C:\Users\cristian\Desktop\deberes\APLICACIONES INFORMATICAS 1\TRABAJOS INDIVIDUALES\8 dado un punto x y  calcular el cuadrante\WinApp_Cuadrante\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Discriminante_Calcular.pdb
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinApp_Cuadrante\WinApp_Discriminante_Calcular\bin\Debug\WinApp_Discriminante_Calcular.exe.config
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinApp_Cuadrante\WinApp_Discriminante_Calcular\bin\Debug\WinApp_Discriminante_Calcular.exe
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinApp_Cuadrante\WinApp_Discriminante_Calcular\bin\Debug\WinApp_Discriminante_Calcular.pdb
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinApp_Cuadrante\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Cuadrante.csprojAssemblyReference.cache
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinApp_Cuadrante\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Cuadrante.Form1.resources
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinApp_Cuadrante\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Discriminante_Calcular.Properties.Resources.resources
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinApp_Cuadrante\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Cuadrante.csproj.GenerateResource.cache
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinApp_Cuadrante\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Cuadrante.csproj.CoreCompileInputs.cache
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinApp_Cuadrante\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Discriminante_Calcular.exe
+C:\Users\hendrix\Documents\ejercicioIndividualJefer\WinApp_Cuadrante\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Discriminante_Calcular.pdb
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinApp_Cuadrante\WinApp_Discriminante_Calcular\bin\Debug\WinApp_Discriminante_Calcular.exe.config
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinApp_Cuadrante\WinApp_Discriminante_Calcular\bin\Debug\WinApp_Discriminante_Calcular.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinApp_Cuadrante\WinApp_Discriminante_Calcular\bin\Debug\WinApp_Discriminante_Calcular.pdb
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinApp_Cuadrante\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Cuadrante.csproj.AssemblyReference.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinApp_Cuadrante\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Cuadrante.Form1.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinApp_Cuadrante\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Discriminante_Calcular.Properties.Resources.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinApp_Cuadrante\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Cuadrante.csproj.GenerateResource.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinApp_Cuadrante\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Cuadrante.csproj.CoreCompileInputs.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinApp_Cuadrante\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Discriminante_Calcular.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinApp_Cuadrante\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Discriminante_Calcular.pdb

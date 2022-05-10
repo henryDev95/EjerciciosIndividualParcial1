@@ -1,0 +1,29 @@
+D:\respaldo 2022\Documents\trabajos\Programas deber\WinAppSerie\WinAppSerie\bin\Debug\WinAppSerie.exe.config
+D:\respaldo 2022\Documents\trabajos\Programas deber\WinAppSerie\WinAppSerie\bin\Debug\WinAppSerie.exe
+D:\respaldo 2022\Documents\trabajos\Programas deber\WinAppSerie\WinAppSerie\bin\Debug\WinAppSerie.pdb
+D:\respaldo 2022\Documents\trabajos\Programas deber\WinAppSerie\WinAppSerie\obj\Debug\WinAppSerie.csprojResolveAssemblyReference.cache
+D:\respaldo 2022\Documents\trabajos\Programas deber\WinAppSerie\WinAppSerie\obj\Debug\WinAppSerie.Properties.Resources.resources
+D:\respaldo 2022\Documents\trabajos\Programas deber\WinAppSerie\WinAppSerie\obj\Debug\WinAppSerie.csproj.GenerateResource.Cache
+D:\respaldo 2022\Documents\trabajos\Programas deber\WinAppSerie\WinAppSerie\obj\Debug\WinAppSerie.exe
+D:\respaldo 2022\Documents\trabajos\Programas deber\WinAppSerie\WinAppSerie\obj\Debug\WinAppSerie.pdb
+D:\respaldo 2022\Documents\trabajos\Programas deber\WinAppSerie\WinAppSerie\obj\Debug\WinAppSerie.Form1.resources
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppSerie\WinAppSerie\bin\Debug\WinAppSerie.exe.config
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppSerie\WinAppSerie\bin\Debug\WinAppSerie.exe
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppSerie\WinAppSerie\bin\Debug\WinAppSerie.pdb
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppSerie\WinAppSerie\obj\Debug\WinAppSerie.csprojAssemblyReference.cache
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppSerie\WinAppSerie\obj\Debug\WinAppSerie.Form1.resources
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppSerie\WinAppSerie\obj\Debug\WinAppSerie.Properties.Resources.resources
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppSerie\WinAppSerie\obj\Debug\WinAppSerie.csproj.GenerateResource.cache
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppSerie\WinAppSerie\obj\Debug\WinAppSerie.csproj.CoreCompileInputs.cache
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppSerie\WinAppSerie\obj\Debug\WinAppSerie.exe
+C:\Users\hendrix\Downloads\Programas(6839)\Programas deber\WinAppSerie\WinAppSerie\obj\Debug\WinAppSerie.pdb
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppSerie\WinAppSerie\bin\Debug\WinAppSerie.exe.config
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppSerie\WinAppSerie\bin\Debug\WinAppSerie.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppSerie\WinAppSerie\bin\Debug\WinAppSerie.pdb
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppSerie\WinAppSerie\obj\Debug\WinAppSerie.csproj.AssemblyReference.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppSerie\WinAppSerie\obj\Debug\WinAppSerie.Form1.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppSerie\WinAppSerie\obj\Debug\WinAppSerie.Properties.Resources.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppSerie\WinAppSerie\obj\Debug\WinAppSerie.csproj.GenerateResource.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppSerie\WinAppSerie\obj\Debug\WinAppSerie.csproj.CoreCompileInputs.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppSerie\WinAppSerie\obj\Debug\WinAppSerie.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppSerie\WinAppSerie\obj\Debug\WinAppSerie.pdb

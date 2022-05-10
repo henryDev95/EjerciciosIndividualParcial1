@@ -1,0 +1,26 @@
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppCalculadoraMath\bin\Debug\WinAppCalculadoraMath.exe.config
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppCalculadoraMath\bin\Debug\WinAppCalculadoraMath.exe
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppCalculadoraMath\bin\Debug\WinAppCalculadoraMath.pdb
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppCalculadoraMath\obj\Debug\WinAppCalculadoraMath.Form1.resources
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppCalculadoraMath\obj\Debug\WinAppCalculadoraMath.Properties.Resources.resources
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppCalculadoraMath\obj\Debug\WinAppCalculadoraMath.csproj.GenerateResource.cache
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppCalculadoraMath\obj\Debug\WinAppCalculadoraMath.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppCalculadoraMath\obj\Debug\WinAppCalculadoraMath.exe
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppCalculadoraMath\obj\Debug\WinAppCalculadoraMath.pdb
+C:\Users\USUARIO\Documents\Aplicaciones Informáticas\WinAppCalculadoraMath\obj\Debug\WinAppCalculadoraMath.csproj.AssemblyReference.cache
+C:\Users\henry\Downloads\WinAppCalculadoraMath-20211117T143951Z-001\WinAppCalculadoraMath\bin\Debug\WinAppCalculadoraMath.exe.config
+C:\Users\henry\Downloads\WinAppCalculadoraMath-20211117T143951Z-001\WinAppCalculadoraMath\obj\Debug\WinAppCalculadoraMath.exe
+C:\Users\henry\Downloads\WinAppCalculadoraMath-20211117T143951Z-001\WinAppCalculadoraMath\obj\Debug\WinAppCalculadoraMath.pdb
+C:\Users\henry\Documents\trabajos\WinAppCalculadoraMath-20211117T143951Z-001\WinAppCalculadoraMath\bin\Debug\WinAppCalculadoraMath.exe.config
+C:\Users\henry\Documents\trabajos\WinAppCalculadoraMath-20211117T143951Z-001\WinAppCalculadoraMath\obj\Debug\WinAppCalculadoraMath.exe
+C:\Users\henry\Documents\trabajos\WinAppCalculadoraMath-20211117T143951Z-001\WinAppCalculadoraMath\obj\Debug\WinAppCalculadoraMath.pdb
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCalculadoraMath\WinAppCalculadoraMath\bin\Debug\WinAppCalculadoraMath.exe.config
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCalculadoraMath\WinAppCalculadoraMath\bin\Debug\WinAppCalculadoraMath.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCalculadoraMath\WinAppCalculadoraMath\bin\Debug\WinAppCalculadoraMath.pdb
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCalculadoraMath\WinAppCalculadoraMath\obj\Debug\WinAppCalculadoraMath.csproj.AssemblyReference.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCalculadoraMath\WinAppCalculadoraMath\obj\Debug\WinAppCalculadoraMath.Form1.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCalculadoraMath\WinAppCalculadoraMath\obj\Debug\WinAppCalculadoraMath.Properties.Resources.resources
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCalculadoraMath\WinAppCalculadoraMath\obj\Debug\WinAppCalculadoraMath.csproj.GenerateResource.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCalculadoraMath\WinAppCalculadoraMath\obj\Debug\WinAppCalculadoraMath.csproj.CoreCompileInputs.cache
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCalculadoraMath\WinAppCalculadoraMath\obj\Debug\WinAppCalculadoraMath.exe
+C:\Users\henry\Documents\ejercicio jeferson ind1\WinAppCalculadoraMath\WinAppCalculadoraMath\obj\Debug\WinAppCalculadoraMath.pdb

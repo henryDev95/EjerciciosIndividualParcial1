@@ -1,0 +1,10 @@
+C:\Users\cristian\Desktop\deberes\APLICACIONES INFORMATICAS 1\TRABAJOS INDIVIDUALES\6 tipo de triangulo\WinApp_Tipo_Triangulo\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Tipo_Triangulo.csprojAssemblyReference.cache
+C:\Users\cristian\Desktop\deberes\APLICACIONES INFORMATICAS 1\TRABAJOS INDIVIDUALES\6 tipo de triangulo\WinApp_Tipo_Triangulo\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Tipo_Triangulo.Form1.resources
+C:\Users\cristian\Desktop\deberes\APLICACIONES INFORMATICAS 1\TRABAJOS INDIVIDUALES\6 tipo de triangulo\WinApp_Tipo_Triangulo\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Discriminante_Calcular.Properties.Resources.resources
+C:\Users\cristian\Desktop\deberes\APLICACIONES INFORMATICAS 1\TRABAJOS INDIVIDUALES\6 tipo de triangulo\WinApp_Tipo_Triangulo\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Tipo_Triangulo.csproj.GenerateResource.cache
+C:\Users\cristian\Desktop\deberes\APLICACIONES INFORMATICAS 1\TRABAJOS INDIVIDUALES\6 tipo de triangulo\WinApp_Tipo_Triangulo\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Tipo_Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\cristian\Desktop\deberes\APLICACIONES INFORMATICAS 1\TRABAJOS INDIVIDUALES\6 tipo de triangulo\WinApp_Tipo_Triangulo\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Discriminante_Calcular.exe
+C:\Users\cristian\Desktop\deberes\APLICACIONES INFORMATICAS 1\TRABAJOS INDIVIDUALES\6 tipo de triangulo\WinApp_Tipo_Triangulo\WinApp_Discriminante_Calcular\obj\Debug\WinApp_Discriminante_Calcular.pdb
+C:\Users\cristian\Desktop\deberes\APLICACIONES INFORMATICAS 1\TRABAJOS INDIVIDUALES\6 tipo de triangulo\WinApp_Tipo_Triangulo\WinApp_Discriminante_Calcular\bin\Debug\WinApp_Discriminante_Calcular.exe.config
+C:\Users\cristian\Desktop\deberes\APLICACIONES INFORMATICAS 1\TRABAJOS INDIVIDUALES\6 tipo de triangulo\WinApp_Tipo_Triangulo\WinApp_Discriminante_Calcular\bin\Debug\WinApp_Discriminante_Calcular.exe
+C:\Users\cristian\Desktop\deberes\APLICACIONES INFORMATICAS 1\TRABAJOS INDIVIDUALES\6 tipo de triangulo\WinApp_Tipo_Triangulo\WinApp_Discriminante_Calcular\bin\Debug\WinApp_Discriminante_Calcular.pdb
